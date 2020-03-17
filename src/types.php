@@ -1,0 +1,6 @@
+<?php
+
+$types = [
+    'email',
+    'sms'
+];

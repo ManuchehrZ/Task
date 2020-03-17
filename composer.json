@@ -1,0 +1,10 @@
+{
+    "name": "manusoft/console-app",
+    "description": "Console app",
+    "type": "Project",
+    "license": "MIT",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "lincanbin/php-pdo-mysql-class": "^2.0"
+    }
+}
